@@ -103,6 +103,6 @@ _Initial_ Exploration
 
 - [ ] . Monthly Sales:
 
-
+YES
 
 

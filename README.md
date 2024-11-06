@@ -1,4 +1,4 @@
-A SHOTT DESCRIPTION O THE ANALYSIS
+A SHOTT DESCRIPTION OF THE ANALYSIS
 
 Sales Performance Analysis for a Retail Store
 A data analytics project that provides visual insights
@@ -6,8 +6,8 @@ into sales performance, highlighting top-performing products
 and sales trends over two years (2023-2024)
 enabling data-driven decisions to optimize product offerings
 and marketing strategies.
-Tools used ; SQL, EXCEL, POWER BI.
 
+Tools used ; SQL, EXCEL, POWER BI.
 
 ### PREVIEW
 
@@ -150,6 +150,7 @@ Jacket	208230
 Socks	180785
 Grand Total	2101090
 ![image](https://github.com/user-attachments/assets/b525a291-119d-40e4-86e2-f33d8341a9df)
+
 PRODUCT	AVERAGE SALES
 Shirt	327
 Shoes	309
@@ -174,7 +175,7 @@ Key Findings:
 *Insights and Recommendations:*
 
 1. Best Product Dominance: Focus on maintaining best Product market share and exploring expansion opportunities.
-   Regional Imbalance: Invest in west Region marketing to bridge the sales gap.
+2. Regional Imbalance: Invest in west Region marketing to bridge the sales gap.
 3. Seasonal Fluctuations: Develop targeted promotions for low-sales months (December).
 
 *Storytelling:*

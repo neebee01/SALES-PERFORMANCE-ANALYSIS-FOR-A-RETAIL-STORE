@@ -196,7 +196,7 @@ Our sales story is one of growth, regional imbalance, and emerging trends. By ad
 
 1. Conduct market research to identify west Region growth opportunities.
 2. Develop targeted promotions for low-sales months.
-3. Monitor Product C's sales trajectory.
+3. Monitor Product with lowest  sales .
 4. Adjust sales strategies to maintain Product market share.
 
 By transforming sales data into actionable insights and compelling stories, we empower our business to make informed decisions, drive growth, and stay competitive.

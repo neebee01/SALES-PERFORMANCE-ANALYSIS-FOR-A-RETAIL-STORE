@@ -200,3 +200,4 @@ Our sales story is one of growth, regional imbalance, and emerging trends. By ad
 4. Adjust sales strategies to maintain Product market share.
 
 By transforming sales data into actionable insights and compelling stories, we empower our business to make informed decisions, drive growth, and stay competitive.
+![image](https://github.com/user-attachments/assets/a46d2415-a91a-4f02-a8d4-eacff737ceab)
